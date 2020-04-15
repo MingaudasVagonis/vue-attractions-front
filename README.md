@@ -4,7 +4,7 @@ Simple page used to help populate the database with attractions in Lithuania wri
 
  - [**Example**](#example)  
  - [**Components**](#components)  
- - [**Packaged & usage**](#packages-and-usage)  
+ - [**Packages & usage**](#packages-and-usage)  
  
 ## Example
 
