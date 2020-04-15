@@ -8,11 +8,11 @@ Simple page used to help populate the database with attractions in Lithuania wri
  
 ## Example
 
-![**retrieve.go**](https://i.imgur.com/8SgmBj9.mp4)
+![example](https://drive.google.com/uc?export=view&id=14DQsO6hMys5kHPDq5dNbgJhPUEHG2f6Y)
 
 **Fully responsive**
 
-<img src="https://i.imgur.com/LJmB0xo.mp4" width="30%"/>
+<img src="https://drive.google.com/uc?export=view&id=1ZlsYcMXY4ZG7LMvjC3bjz-TIRkAHkkkG" width="30%"/>
  
 ## Components
 
@@ -20,7 +20,7 @@ Simple page used to help populate the database with attractions in Lithuania wri
 
  **A wrapper around html's input**
  
- <img src="https://i.imgur.com/LVGZzwF.mp4" width="50%"/>
+ <img src="https://drive.google.com/uc?export=view&id=1fkIY93w6H2YirsF1FIqLJrxB9H9hOXD6" width="50%"/>
 
 #### Props
 
@@ -44,7 +44,7 @@ Name|Type|Description
 
  **N stages toggle**
  
- <img src="https://i.imgur.com/EbfmPSE.mp4" width="50%"/>
+ <img src="https://drive.google.com/uc?export=view&id=1_XF2E_eq3WWi_-iAYHYHPEt-nGmPe0ix" width="50%"/>
 
 #### Props
 
@@ -62,7 +62,7 @@ Name|Type|Description
 
  **N stages toggle**
  
- <img src="https://i.imgur.com/nBiPZIe.mp4" width="50%"/>
+ <img src="https://drive.google.com/uc?export=view&id=1XlOh16mAfueqO_OUxk0E1d8-AxXr29xd" width="50%"/>
 
 #### Props
 
@@ -74,7 +74,7 @@ Name|Type|Required|Description
 
  **Component used to display an image from the url provided**
  
- <img src="https://i.imgur.com/to4Tnx3.mp4" width="40%"/>
+ <img src="https://drive.google.com/uc?export=view&id=1aG-PsrJ0tqi_icWpttw6OyB3RdCmrfAm" width="40%"/>
 
 #### Data
 
