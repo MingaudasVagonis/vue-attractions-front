@@ -8,11 +8,11 @@ Simple page used to help populate the database with attractions in Lithuania wri
  
 ## Example
 
-![example](https://drive.google.com/uc?export=view&id=14DQsO6hMys5kHPDq5dNbgJhPUEHG2f6Y)
+<img src="https://media.giphy.com/media/VbEkOOjOic1vKRDqgf/giphy.gif" width="80%"/>
 
 **Fully responsive**
 
-<img src="https://drive.google.com/uc?export=view&id=1ZlsYcMXY4ZG7LMvjC3bjz-TIRkAHkkkG" width="30%"/>
+<img src="https://media.giphy.com/media/WSs7tPk3cCWfrt7UCH/giphy.gif" width="15%"/>
  
 ## Components
 
@@ -20,7 +20,7 @@ Simple page used to help populate the database with attractions in Lithuania wri
 
  **A wrapper around html's input**
  
- <img src="https://drive.google.com/uc?export=view&id=1fkIY93w6H2YirsF1FIqLJrxB9H9hOXD6" width="50%"/>
+ <img src="https://media.giphy.com/media/KeL9wVKlyzGqc72GEc/giphy.gif" width="50%"/>
 
 #### Props
 
@@ -44,7 +44,7 @@ Name|Type|Description
 
  **N stages toggle**
  
- <img src="https://drive.google.com/uc?export=view&id=1_XF2E_eq3WWi_-iAYHYHPEt-nGmPe0ix" width="50%"/>
+ <img src="https://media.giphy.com/media/WqcrRE7QBCD7Ku6fUS/giphy.gif" width="50%"/>
 
 #### Props
 
@@ -62,7 +62,7 @@ Name|Type|Description
 
  **N stages toggle**
  
- <img src="https://drive.google.com/uc?export=view&id=1XlOh16mAfueqO_OUxk0E1d8-AxXr29xd" width="50%"/>
+ <img src="https://media.giphy.com/media/TiPWE1WV93ChZh1RjV/giphy.gif" width="50%"/>
 
 #### Props
 
@@ -74,7 +74,7 @@ Name|Type|Required|Description
 
  **Component used to display an image from the url provided**
  
- <img src="https://drive.google.com/uc?export=view&id=1aG-PsrJ0tqi_icWpttw6OyB3RdCmrfAm" width="40%"/>
+ <img src="https://media.giphy.com/media/dydELPWfpdXpERDicP/giphy.gif" width="40%"/>
 
 #### Data
 
