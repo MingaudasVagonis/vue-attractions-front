@@ -1,28 +1,36 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <vue-page-transition name="overlay-up-full">
+    <router-view/>
+  </vue-page-transition>
   </div>
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue'
-
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
+<style lang="scss">
+  * {
+    margin: 0;
+    padding: 0;
+    color: $darker;
+    font-size: 1em;
+    font-weight: 500;
   }
-}
-</script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  *:focus{
+    outline: none;
+  }
+
+  body{
+    background-color: $blueish_white;
+  }
+
+  *::placeholder {
+    color: $def_color;
+  }
+
+  @keyframes scale{
+    0%   { transform: scale(1); }
+    20%   { transform: scale(0.8); }
+    100%   { transform: scale(1.2); }
+  }
+
 </style>

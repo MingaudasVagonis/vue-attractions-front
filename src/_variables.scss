@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+$def_color: #9aa2b1;
+
+$darker: #68707f;
+
+$blueish_white: #f6f7f9;
+
+$shadow: rgba(154,162,177,0.3);
+
+$greens: #d1e118, #afd526, #86c538, #56ab46;
+
+$reds: #fa5656, #de4141;
+
+.shadow_box {
+  border-radius: 25px;
+  box-shadow: 0 0 20px -5px $shadow;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.row-wrap {
+  @extend .row;
+  flex-wrap: wrap;
+}
+
+.column-wrap {
+  @extend .column;
+  flex-wrap: wrap;
+}
+
+:root {
+  --overlay-bg: #d1e118;
+  --transition-duration: .35s;
+}
